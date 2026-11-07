@@ -1,0 +1,32 @@
+{
+  "sample_rate_hz": 2400000.0,
+  "center_frequency_hz": 900000000.0,
+  "threshold_db": 10.341242828559874,
+  "event_count": 3,
+  "events": [
+    {
+      "start_s": 0.07936,
+      "end_s": 0.12565333333333334,
+      "peak_s": 0.08277333333333334,
+      "peak_frequency_hz": 899619140.625,
+      "peak_offset_hz": -380859.375,
+      "peak_excess_db": 29.980112075805664
+    },
+    {
+      "start_s": 0.24448,
+      "end_s": 0.29248,
+      "peak_s": 0.26986666666666664,
+      "peak_frequency_hz": 900073828.125,
+      "peak_offset_hz": 73828.125,
+      "peak_excess_db": 26.98202896118164
+    },
+    {
+      "start_s": 0.40448,
+      "end_s": 0.4625066666666667,
+      "peak_s": 0.4132266666666667,
+      "peak_frequency_hz": 900459375.0,
+      "peak_offset_hz": 459375.0,
+      "peak_excess_db": 31.635778427124023
+    }
+  ]
+}

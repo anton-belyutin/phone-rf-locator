@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phone-rf-poc"
+version = "0.1.0"
+description = "Receive-only burst detector for a phone RF feasibility PoC"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=2.0",
+  "pillow>=11",
+]
+
+[project.scripts]
+rf-poc = "rf_poc.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["rf_poc*"]
