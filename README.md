@@ -118,7 +118,8 @@ According to the project author, the concept was discussed with representatives 
 - `docs/IDEA_RU.md` - plain-language description of the idea in Russian;
 - `docs/ENGINEERING_PLAN_RU.md` - staged engineering plan in Russian;
 - `docs/TEST_PROTOCOL_RU.md` - controlled test protocol in Russian;
-- `docs/BOM_RU.md` - dated purchasing snapshot and hardware notes;
+- `docs/BOM_EN.md` - approximate European prices in EUR and USD;
+- `docs/BOM_RU.md` - Moscow purchasing guide and prices in rubles;
 - `docs/CLAIMS_AND_LIMITATIONS_RU.md` - what remains unproven;
 - `docs/EXPERIMENT_REPORT_TEMPLATE.md` - reusable measurement report;
 - `demo/` - example detector output.
